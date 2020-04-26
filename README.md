@@ -24,7 +24,7 @@ let package = Package(
     ...
     dependencies: [
         ...
-        .package(url: "https://github.com/Deub27/localwebsiteypublishplugin", from: "0.1.0")
+        .package(url: "https://github.com/Deub27/LocalWebsitePublishPlugin.git", from: "0.1.0")
     ],
     targets: [
         .target(
